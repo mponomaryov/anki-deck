@@ -1,0 +1,8 @@
+beautifulsoup4==4.8.2
+cached-property==1.5.1
+frozendict==1.2
+genanki==0.8.0
+pkg-resources==0.0.0
+pystache==0.5.4
+PyYAML==5.3.1
+soupsieve==2.0
