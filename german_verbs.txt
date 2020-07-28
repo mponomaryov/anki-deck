@@ -1,0 +1,186 @@
+leben|жить|lebte|gelebt
+wohnen|проживать|wohnte|gewohnt
+stammen|быть родом, происходить|stammte|gestammt
+sitzen*|сидеть|sass|gesessen
+sich setzen|садиться|setzte sich|sich gesetzt
+liegen*|лежать|lag|gelegen
+sich legen|ложиться|legte sich|sich gelegt
+schlafen*|спать|schlief|geschlafen
+einbetten|укладывать спать|bettete ein|eingebettet
+träumen|сниться|träumte|geträumt
+stehen*|стоять|stand|gestanden
+stellen|ставить|stellte|gestellt
+lesen*|читать|las|gelesen
+fernsehen*|смотреть телевизор|sah fern|ferngesehen
+waschen|стирать*|wusch|gewaschen
+baden|купаться|badete|gebadet
+sich waschen*|мыться|wusch sich|sich gewaschen
+sich kämmen|причесываться|kämmte sich|sich gekämmt
+sich rasieren|бриться|rasierte sich|sich rasiert
+sich parfümieren|надушиться духами|parfümierte sich|sich parfümiert
+sich erfrischen|освежиться|erfrischte sich|sich erfrischt
+massieren|делать массаж|massierte|massiert
+frisieren|делать прическу|frisierte|frisiert
+turnen|делать гимнастику|turnte|geturnt
+frühstücken|завтракать|frühstückte|gefrühstückt
+servieren|сервировать|servierte|serviert
+kaufen|покупать|kaufte|gekauft
+einkaufen|закупать, делать покупки|kaufte ein|eingekauft
+wählen|выбирать|wählte|gewählt
+bezahlen|оплачивать|bezahlte|bezahlt
+sich einrichten|обустроиться в квартире|richtete sich ein|sich eingerichtet
+renovieren|ремонтировать (квартиру)|renovierte|renoviert
+reparieren|ремонтировать (технику)|reparierte|repariert
+tapezieren|оклеивать обоями|tapezierte|tapeziert
+kacheln|облицовывать кафелем|kachelte|gekachelt
+möblieren|меблировать, обставлять квартиру|möblierte|möbliert
+einbauen|встраивать|baute ein|eingebaut
+kochen|готовить, варить|kochte|gekocht
+braten*|жарить|briet|gebraten
+backen*|печь|buk (backte)|gebacken
+mahlen|молоть|mahlte|gemahlt
+salzen|солить|salzte|gesalzt
+pfeffern|перчить|pfefferte|gepfeffert
+dünsten|тушить, пассеровать|dünstete|gedünstet
+dämpfen|готовить на пару|dämpfte|gedämpft
+einlegen|мариновать|legte ein|eingelegt
+schnitzeln|шинковать|schnitzelte|geschnitzelt
+grillen|готовить на гриле|grillte|gegrillt
+frittieren|жарить во фритюре|frittierte|frittiert
+anbrennen*|подгорать|brannte an|angebrannt
+schneiden*|резать|schnitt|geschnitten
+zerkleinern|измельчать|zerkleinerte|zerkleinert
+pürieren|пюрировать|pürierte|püriert
+mischen|смешивать, перемешивать|mischte|gemischt
+einfrieren|заморозить|fror ein|eingefroren
+auftauen|разморозить|taute auf|aufgetaut
+abkühlen|остужать, охлаждать|kühlte ab|abgekühlt
+essen*|есть|ass|gegessen
+aufessen*|съесть без остатка|ass auf|aufgegessen
+trinken*|пить|trank|getrunken
+fressen*|жрать, поедать|frass|gefressen
+sich ernähren|кормиться чем-л.|ernährte sich|sich ernährt
+füttern|кормить|fütterte|gefüttert
+verdauen|переваривать|verdaute|verdaut
+abwaschen*|отмывать, мыть (посуду)|wusch ab|abgewaschen
+abspülen|споласкивать|spülte ab|abgespült
+stärken|крахмалить|stärkte|gestärkt
+bügeln|гладить (белье)|bügelte|gebügelt
+staubsaugen|чистить пылесосом|staubsaugte|staubsaugt
+fegen|подметать|fegte|gefegt
+aufräumen|прибираться|räumte auf|aufgeräumt
+lernen|учиться в школе|lernte|gelernt
+studieren|учиться в институте|studierte|studiert
+lehren|обучать, учить|lehrte|gelehrt
+ausbilden|обучать (специальности)|bildete aus|ausgebildet
+einschulen|записать в школу|schulte ein|eingeschult
+absolvieren|закончить (учебное заведение)|absolvierte|absolviert
+sich benehmen*|вести себя|benahm sich|sich benommen
+verzeihen*|простить|verzieh|verziehen
+entschuldigen|извинить|entschuldigte|entschuldigt
+loben|хвалить|lobte|gelobt
+tadeln|порицать|tadelte|getadelt
+schreiben*|писать|schrieb|geschrieben
+zählen|считать|zählte|gezählt
+rechnen|решать|rechnete|gerechnet
+üben|упражняться|übte|geübt
+deklinieren|склонять|deklinierte|dekliniert
+konjugieren|спрягать|konjugierte|konjugiert
+addieren|складывать|addierte|addiert
+subtrahieren|вычитать из|subtrahierte|subtrahiert
+multiplizieren|умножать на|multiplizierte|multipliziert
+dividieren|делить на|dividierte|dividiert
+denken*|думать о|dachte|gedacht
+zuhören|слушать|hörte zu|zugehört
+vergleichen|сравнивать c|verglich|verglichen
+basteln|мастерить|bastelte|gebastelt
+konstruieren|конструировать|konstruierte|konstruiert
+entwerfen*|проектировать|entwarf|entworfen
+zeichnen|чертить|zeichnete|gezeichnet
+malen|рисовать|malte|gemalt
+bemalen|раскрашивать|bemalte|bemalt
+sich trainieren|тренироваться|trainierte sich|sich trainiert
+springen*|прыгать|sprang|gesprungen
+laufen*|бегать|lief|gelaufen
+klettern|карабкаться|kletterte|geklettert
+schwimmen*|плавать|schwamm|geschwommen
+wetteifern|соревноваться|wetteiferte|wetteifert
+erreichen|достичь|erreichte|erreicht
+gewinnen*|победить|gewann|gewonnen
+verlieren*|проиграть|verlor|verloren
+auffrischen|освежить (знания)|frischte auf|aufgefrischt
+ablegen|сдавать (экзамен)|legte ab|abgelegt
+bestehen*|выдержать (экзамен)|bestand|bestanden
+durchfallen*|провалить (экзамен)|fiel durch|durcgefallen
+dichten|писать стихи|dichtete|gedichtet
+versäumen|прогуливать (занятия)|versäumte|versäumt
+schwatzen|болтать|schwatzte|geschwatzt
+verletzen|нарушать|verletzte|verletzt
+streben|стремиться|strebte|gestrebt
+arbeiten|работать|arbeitete|gearbeitet
+bearbeiten|обрабатывать|bearbeitete|bearbeitet
+ausarbeiten|разрабатывать (проект и пр.)|arbeitete aus|ausgearbeitet
+kopieren|копировать|kopierte|kopiert
+vervielfältigen|размножать|vervielfältigte|vervielfältigt
+drucken|распечатать|druckte|gedruckt
+faxen|отправить факс|faxte|gefaxt
+mailen|отправить электронное письмо|mailte|gemailt
+anrufen*|звонить по телефону|rief an|angerufen
+telephonieren|разговаривать по телефону|telephonierte|telephoniert
+planen|планировать|plante|geplant
+verhandeln|вести переговоры|verhandelte|verhandelt
+abschliessen*|заключить (контракт и пр.)|schloss ab|abgeschlossen
+besprechen*|обсуждать, обговаривать|besprach|besprochen
+diskutieren|обсуждать, дискутировать|diskutierte|diskutiert
+investieren|инвестировать|investierte|investiert
+finanzieren|финансировать|finanzierte|finanziert
+überweisen*|переводить (деньги)|überwies|überwiesen
+sponsern|спонсировать|sponserte|gesponsert
+projektieren|проектировать|projektierte|projektiert
+beraten*|консультировать|beriet|beraten
+entlohnen|давать расчет, увольнять|entlohnte|entlohnt
+korrigieren|исправлять|korrigierte|korrigiert
+aktionieren|акционировать|aktionierte|aktioniert
+leiten|руководить|leitete|geleitet
+ausrüsten|оборудовать|rüstete aus|ausgerüstet
+umrüsten|переоборудовать|rüstete um|umgerüstet
+bauen|строить|baute|gebaut
+umbauen|перестроить|baute um|umgebaut
+produzieren|производить|produzierte|produziert
+erzeugen|изготавливать, выпускать|erzeugte|erzeugt
+absetzen|сбывать|setzte ab|abgesetzt
+profitieren|извлечь выгоду, получить прибыль|profitierte|profitiert
+sich erholen|отдыхать|erholte sich|sich erholt
+sich entspannen|расслабляться|entspannte sich|sich entspannt
+feiern|праздновать|feierte|gefeiert
+gratulieren|поздравлять|gratulierte|gratuliert
+einladen*|приглашать|lud ein|eingeladen
+besuchen|посещать|besuchte|besucht
+geniessen|наслаждаться|genoss|genossen
+spielen|играть|spielte|gespielt
+singen*|петь|sang|gesungen
+tanzen|танцевать|tanzte|getanzt
+nähen|шить|nähte|genäht
+stricken|вязать|strickte|gestrickt
+sammeln|собирать (марки и пр.)|sammelte|gesammelt
+zusammenbauen|собирать (модели и пр.)|baute zusammen|zusammengebaut
+pflanzen|сажать (растения)|pflanze|gepflanzt
+züchten|разводить, выращивать (растения)|züchtete|gezüchtet
+schneiden*|стричь, подстригать|schnitt|geschnitten
+säen|сеять|säte|gesät
+reiten*|кататься верхом|ritt|geritten
+rodeln|кататься с гор|rodelte|gerodelt
+reisen|путешествовать|reiste|gereist
+wandern|путешествовать (пешком)|wanderte|gewandert
+bummeln|бродить|bummelte|gebummelt
+fahren*|ехать|fuhr|gefahren
+fliegen*|лететь|flog|geflogen
+buchen|бронировать|buchte|gebucht
+reservieren|резервировать|reservierte|reserviert
+stornieren|аннулировать|stornierte|storniert
+sich sonnen|загорать, греться на солнце|sonnte sich|sich gesonnt
+besichtigen|осматривать (достопримеча-тельности)|besichtigte|besichtigt
+segeln|плыть под парусами|segelte|gesegelt
+angeln|ловить рыбу, удить|angelte|geangelt
+fischen|рыбачить|fischte|gefischt
+jagen|охотиться на|jagte|gejagt
