@@ -5,6 +5,15 @@ DECK_ID = 7469112283
 MODULE_ID = 2417888824
 
 CSS = '''
+.card {
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+
 .preterite::before,
 .partizip2::before {
     color: gray;
