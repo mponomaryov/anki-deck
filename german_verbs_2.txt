@@ -1,0 +1,110 @@
+backen|печь|buk|gebacken
+befehlen|приказывать|befahl|befohlen
+beginnen|начинать|begann|begonnen
+beißen|кусать|biss|gebissen
+bergen|прятать|barg|geborgen
+biegen|сгибать|bog|gebogen
+bieten|предлагать|bot|geboten
+binden|связывать, завязывать|band|gebunden
+bitten|просить|bat|gebeten
+bleiben|оставаться|blieb|geblieben
+braten|жарить|briet|gebraten
+brechen|ломать|brach|gebrochen
+brennen|гореть|brannte|gebrannt
+bringen|приносить|brachte|gebracht
+denken|думать|dachte|gedacht
+empfangen|принимать, встречать|empfing|empfangen
+empfehlen|рекомедовать|empfahl|empfohlen
+erschrecken|испугаться|erschrak|erschrocken
+essen|есть|aß|gegessen
+fahren|ехать|fuhr|gefahren
+fallen|падать|fiel|gefallen
+finden|находить|fand|gefunden
+fliegen|летать|flog|geflogen
+fliehen|убегать|floh|geflohen
+fließen|течь|floss|geflossen
+frieren|мерзнуть|fror|gefroren
+gebären|рождать|gebar|geboren
+geben|давать|gab|gegeben
+gehen|идти|ging|gegangen
+gelingen|удаваться|gelang|gelungen
+gelten|иметь силу, стоить|galt|gegolten
+genießen|наслаждаться|genoss|genossen
+geschehen|происходить|geschah|geschehen
+gewinnen|побеждать|gewann|gewonnen
+gleichen|быть похожим|glich|geglichen
+greifen|хватать|griff|gegriffen
+haben|иметь|hatte|gehabt
+halten|держать|hielt|gehalten
+hängen|висеть|hing|gehangen
+heben|поднимать|hob|gehoben
+heißen|звать, называться|hieß|geheißen
+helfen|помогать|half|geholfen
+kennen|знать|kannte|gekannt
+klingen|звучать|klang|geklungen
+kommen|приходить|kam|gekommen
+laden|грузить, заряжать|lud|geladen
+lassen|велеть, оставлять|ließ|gelassen
+laufen|бегать|lief|gelaufen
+leihen|давать или брать взаймы|lieh|geliehen
+lesen|читать|las|gelesen
+liegen|лежать|lag|gelegen
+lügen|лгать|log|gelogen
+meiden|избегать|mied|gemieden
+messen|мерить|maß|gemessen
+nennen|называть|nannte|genannt
+pfeifen|свистеть|pfiff|gepfiffen
+raten|советовать|riet|geraten
+reiben|тереть|rieb|gerieben
+reißen|рвать|riss|gerissen
+riechen|нюхать, пахнуть|roch|gerochen
+ringen|бороться|rang|gerungen
+rufen|звать, кричать|rief|gerufen
+saugen|сосать|sog|gesogen
+schaffen|создавать, творить|schuf|geschaffen
+scheiden|разделять|schied|geschieden
+scheinen|светить, казаться|schien|geschienen
+schieben|двигать, толкать|schob|geschoben
+schießen|стрелять|schoss|geschossen
+schlafen|спать|schlief|geschlafen
+schlagen|бить|schlug|geschlagen
+schließen|закрывать|schloss|geschlossen
+schmeißen|швырять|schmiss|geschmissen
+schneiden|резать|schnitt|geschnitten
+schreiben|писать|schrieb|geschrieben
+schreien|кричать|schrie|geschrien
+schreiten|шагать|schritt|geschritten
+schweigen|молчать|schwieg|geschwiegen
+schwimmen|плавать|schwamm|geschwommen
+sehen|видеть, смотреть|sah|gesehen
+sein|быть|war|gewesen
+senden|посылать|sandte|gesandt
+senden|отправить|sendete|gesendet
+singen|петь|sang|gesungen
+sinken|опускаться, погружаться|sank|gesunken
+sitzen|сидеть|saß|gesessen
+sprechen|говорить|sprach|gesprochen
+springen|прыгать|sprang|gesprungen
+stechen|колоть|stach|gestochen
+stehen|стоять|stand|gestanden
+steigen|подниматься|stieg|gestiegen
+sterben|умирать|starb|gestorben
+stoßen|толкать|stieß|gestoßen
+streiten|спорить|stritt|gestritten
+tragen|носить|trug|getragen
+treffen|встречать|traf|getroffen
+treiben|гнать|trieb|getrieben
+treten|ступать|trat|getreten
+trinken|пить|trank|getrunken
+tun|делать|tat|getan
+überwinden|преодолеть|überwand|überwunden
+verderben|портить|verdarb|verdorben
+vergessen|забывать|vergaß|vergessen
+verlieren|терять|verlor|verloren
+verzeihen|извинять|verzieh|verziehen
+wachsen|вырасти|wuchs|gewschsen
+waschen|мыть, стирать|wusch|gewaschen
+wiegen|весить|wog|gewogen
+wissen|знать|wusste|gewusst
+ziehen|тащить, тянуть|zog|gezogen
+zwingen|вынуждать|zwang|gezwungen
